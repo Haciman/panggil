@@ -25,7 +25,10 @@ if(x=="1"){xxx="/2018/01/08/some-ways-to-overcome-stress"}
 if(x=="2"){xxx="/2018/01/08/how-to-treat-a-cough-cough-naturally"}
 if(x=="3"){xxx="/2018/01/09/why-insurance-is-mandatory-for-bikes"}
 if(x=="4"){xxx="/2018/01/09/home-insurance-importance-and-benefits"}
-if(x=="5"){xxx="/2018/01/09/why-do-i-need-health-insurance"}a_to_ve[i].href="http://linecolt.ml/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/01/09/why-do-i-need-health-insurance"}
+if(x=="6"){xxx="/2018/01/09/three-situations-not-covered-by-an-all-risks-insur-policy"}
+if(x=="7"){xxx="/2018/01/09/texting-distracted-drivers-mean-higher-auto-insurance-rate"}
+if(x=="8"){xxx="/2018/01/09/four-types-of-insurance-everyone-needs"}a_to_ve[i].href="http://linecolt.ml/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
